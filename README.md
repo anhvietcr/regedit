@@ -1,2 +1,2 @@
-# Add & Remove Intel, Nvidia, AMD in Context Menu by Anhvietcr
+# Intel, Nvidia, AMD in Context Menu
 Add &amp; Remove Intel, Nvidia, AMD in Context Menu
