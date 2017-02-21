@@ -1,0 +1,7 @@
+Windows Registry Editor
+
+; Created by: Anhvietcr
+; http://fb.com/anhvietcr
+
+[HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\igfxcui]
+@="{3AB1675A-CCFF-11D2-8B20-00A0C93CB1F4}"
